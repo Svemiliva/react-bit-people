@@ -1,0 +1,28 @@
+.header {
+    background-color: rgb(247, 108, 108);
+}
+
+.bitPeople {
+    text-decoration: none;
+}
+
+.about {
+    text-decoration: none;
+}
+
+.refreshButton {
+    background-color: rgb(247, 108, 108);
+}
+
+.gridButton {
+    background-color: rgb(247, 108, 108);
+}
+
+button {
+    background:  transparent;
+    border: none;
+}
+
+.fa-list {
+    color: white;
+}

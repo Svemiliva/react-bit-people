@@ -1,0 +1,8 @@
+.inputField {
+    margin: 1%;
+    margin-top: 100px;
+    width: 70%;
+    border: none;
+    border-bottom: 1px solid gray;
+    padding-left: 30px;  /* this moves input inner text from left edge so that icon can fit there */
+}
